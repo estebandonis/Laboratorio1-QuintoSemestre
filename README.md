@@ -36,3 +36,12 @@ May the command line live forever
 ##################################################################
 ##################################################################
 
+
+(20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
+Press control-C to interrupt any command.
+More commands become available after login.
+.bf
+Enter line(s) of Brainfuck code. Press control-D to execute.
+: ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+:
+Hello World!
