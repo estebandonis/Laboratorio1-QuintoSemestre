@@ -37,6 +37,8 @@ May the command line live forever
 /##################################################################
 
 
+
+
 (20 puntos) ¿Cuál es el output de éste programa de Brainf*ck
 Press control-C to interrupt any command.
 More commands become available after login.
@@ -47,11 +49,16 @@ Enter line(s) of Brainfuck code. Press control-D to execute.
 Hello World!
 
 
+
+
 (10 puntos) Traduzcan la siguiente frase a clave morse:
 ye shall be as gods
 .morse
 message? ye shall be as gods
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+
+
 
 (10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
 Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
@@ -117,6 +124,8 @@ HAVE A GOOD REST.
 Thank's, you too
 
 
+
+
 (5 puntos) ¿Donde está ubicado en host bkj386?
 .uupath
 host? bkj386
@@ -124,9 +133,13 @@ telehack!tandem!uunet!dptcdc!moore!bkj386
 telehack!veritas!hoptoad!utzoo!generic!bkj386
 
 
+
+
 (5 puntos) ¿Cuál fue el mejor chiste que les contó el sitio?
 .joke
 We are Buffy of Borg! Prepare to be, like, TOTALLY assimilated, ok?
+
+
 
 
 (10 puntos) Busquen en usenet y escojan algún post interesante
@@ -161,6 +174,8 @@ Mark
 =!=__XXEND__=!=
 
 
+
+
 (20 puntos) Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:
 318
 Titulo: Telnet Protocol
@@ -185,6 +200,8 @@ Primer párrafo:
    discussion.
 
 
+
+
 (20 puntos) En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
 MY PROFILE RANKING OF YOU INDICATES:                                   
                                         
@@ -207,4 +224,3 @@ NEXT TO LAST...
 LASTLY...                      
                                         
    YOU HAVE SEXUAL INCLINATIONS
-
