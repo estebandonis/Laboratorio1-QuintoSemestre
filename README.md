@@ -127,3 +127,35 @@ telehack!veritas!hoptoad!utzoo!generic!bkj386
 (5 puntos) ¿Cuál fue el mejor chiste que les contó el sitio?
 .joke
 We are Buffy of Borg! Prepare to be, like, TOTALLY assimilated, ok?
+
+
+(10 puntos) Busquen en usenet y escojan algún post interesante
+Path: utzoo!utgpu!news-server.csri.toronto.edu!cs.utexas.edu!swrinde!elroy.jpl.nasa.gov!usc!wuarchive!rex!ukma!cs.widener.edu!netnews.upenn.edu!eniac.seas.upenn.edu!mfontana
+From: mfontana@eniac.seas.upenn.edu (Mark A Fontana)
+Subject: What can you do with a game port?
+Date: 28 Mar 91 18:56:03 GMT
+Newsgroups: comp.sys.ibm.pc.hardware
+Organization: University of Pennsylvania
+
+
+I have one of those generic "multi-IO" type cards in my 386 system, and
+one of the connectors is for a game port.  I don't have a joystick or
+anything; are there any other uses for this connector?
+
+Could someone provide me with a list of the pin connections, please?
+
+There are two analog inputs (resistance), correct?  So could I put a
+photocell across one and the temperature probe from a microwave across the
+other and thus be able to read the room temperature and light intensity
+(assuming I've written a program to do the necessary scaling, etc.)?
+
+Can the game port be set to output as well?
+
+Thanks,
+Mark
+
+.-----------------------------------------------------------------------------.
+| Mark A. Fontana (215)573-8410 | ACCOMPANYING, ANIMATION, PROGRAMMING, DALs  |
+| mfontana@eniac.seas.upenn.edu |   ** PEACE ** PAIX ** MIR ** FRIEDEN **     |
+`-----------------------------------------------------------------------------'
+=!=__XXEND__=!=
