@@ -45,3 +45,11 @@ Enter line(s) of Brainfuck code. Press control-D to execute.
 : ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
 :
 Hello World!
+
+
+(10 puntos) Traduzcan la siguiente frase a clave morse:
+ye shall be as gods
+.morse
+message? ye shall be as gods
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
