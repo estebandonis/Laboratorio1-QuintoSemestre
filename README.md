@@ -124,3 +124,6 @@ telehack!tandem!uunet!dptcdc!moore!bkj386
 telehack!veritas!hoptoad!utzoo!generic!bkj386
 
 
+(5 puntos) ¿Cuál fue el mejor chiste que les contó el sitio?
+.joke
+We are Buffy of Borg! Prepare to be, like, TOTALLY assimilated, ok?
