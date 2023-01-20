@@ -185,3 +185,26 @@ Primer párrafo:
    discussion.
 
 
+(20 puntos) En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+MY PROFILE RANKING OF YOU INDICATES:                                   
+                                        
+FIRST AND FOREMOST...          
+                                        
+   YOU ARE A LOVING PERSON              
+                                        
+NEXT...                        
+                                        
+   YOU THINK THINGS OUT INTELLIGENTLY   
+                                        
+THIRDLY...                     
+
+   YOU ARE RIGHTEOUS                                     
+
+NEXT TO LAST...                
+
+   YOU TAKE ADVANTAGE OF ANY OPPORTUNITY        
+
+LASTLY...                      
+                                        
+   YOU HAVE SEXUAL INCLINATIONS
+
