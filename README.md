@@ -117,3 +117,10 @@ HAVE A GOOD REST.
 Thank's, you too
 
 
+(5 puntos) ¿Donde está ubicado en host bkj386?
+.uupath
+host? bkj386
+telehack!tandem!uunet!dptcdc!moore!bkj386
+telehack!veritas!hoptoad!utzoo!generic!bkj386
+
+
